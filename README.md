@@ -1,1 +1,0 @@
-# Customer-Loyalty-Marketplace-Application
