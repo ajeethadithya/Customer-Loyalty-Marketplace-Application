@@ -1,4 +1,4 @@
-##Customer Loyalty Marketplace Application
+## Customer Loyalty Marketplace Application
 
 • Implemented a marketplace that manages customer loyalty programs for different brands. <br>
 • Brands can set up and configure a loyalty program (a regular or tiered loyalty program) for their brand and outsource its management to the marketplace platform. <br>
